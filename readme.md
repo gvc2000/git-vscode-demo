@@ -1,4 +1,4 @@
-# Lerarnig Git in VSCode
+# Learrnig Git in VSCode
 
 - second commit
 
